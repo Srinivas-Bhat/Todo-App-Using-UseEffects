@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+/* .multiply-btn{
+  transform: rotate(35deg);
+} */
+
+.flex-div{
+  display: flex;
+  width: 200px;
+  height: 35px;
+  margin: auto;
+  justify-content: space-between;
+  margin-top: 10px;
+  padding: 0px 10px 0px 10px;
+  border: 1px solid rgb(34, 34, 34);
+  align-items: center;
+}
+
+.dlt-btn{
+  border: 1px solid grey;
+  height: 30px;
+  width: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
